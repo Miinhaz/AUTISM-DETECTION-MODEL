@@ -62,6 +62,12 @@ This project also features **real-time predictions** for early autism detection 
 - **Healthcare Integration**: The API can be integrated into hospital systems, allowing doctors to assess toddlers during routine check-ups instantly.
 - **Mobile Health Apps**: The API can serve as the backend for mobile apps, enabling parents and caregivers to check for early signs of autism from home.
 
+### 📸 Visuals
+
+![FastAPI Deployment](FastAPI.png)
+
+
+
 ---
 
 ### 📊 Streamlit Webpage Deployment
@@ -81,6 +87,10 @@ The combination of **FastAPI** for backend API services and **Streamlit** for an
 - **Instant Feedback**: Quick access to predictive results can lead to faster diagnosis and intervention.
 - **Accessibility**: Users can access the system from any device, whether integrated into a healthcare system or as a standalone web app.
 - **Scalability**: Both FastAPI and Streamlit allow the model to handle numerous requests, making it practical for real-world applications.
+  
+### 📸 Visuals
+![Streamlit Interface 1](streamlit1.png)
+![Streamlit Interface 2](streamlit2.png)
 
 By making autism detection more accessible and user-friendly, this deployment empowers early intervention, improving outcomes for children at risk of ASD.
 
